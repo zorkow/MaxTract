@@ -192,12 +192,63 @@ let rec extractPages dir count pageList elementList=
 ;;
 
 
+(* This is the version with special line extraction algorithms. *)
+  
+(* let extractFile inFile inDirectory= *)
+  
+(*   let dir = ref "" in *)
+(*   let file = ref "" in *)
+    
+(*  (\*   try( *\) *)
+      
+(*       (\*print_string inDirectory; *)
+(* 	print_newline ();*\) *)
+(*       dir := prepFile inFile inDirectory; *)
+(*       file := (!dir)^(!name)^".pdf"; *)
+(*       (\* *)
+(* 	print_string ((!dir)^" "^(!file)); *)
+(* 	print_newline (); *)
+(*       *\) *)
+    
+(*       let inCh = open_in_bin (!file) in *)
+(*       let pageTree = Pdfextractor.getPageTree inCh !test in	   *)
+(*       let pageList = Pdfextractor.extractPDF inCh pageTree [] in *)
+(* (\*	print_string "!";*\) *)
+(* 	close_in inCh; *)
+(* 	let elements = Contentparser.parse pageList [] !test in *)
+	  
+(* 	  if (List.length (List.flatten elements)) >50 *)
+(* 	  then( *)
+	    
+(* 	    if (!jsondir) = "" then(	     *)
+(* (\* pre mo	      system ("./pdf2tiff "^(!file)); *)
+(* 	      makeJson !dir ((List.length pageTree)-1);); *)
+(* *\) *)
+(* 	      system ("./extractLines.opt -f "^(!file)^" -o "^(!dir)); *)
+(* (); *)
+(* ); *)
+	    
+(* 	    (\*      print_int (List.length pageTree);*\) *)
+	    
+(* 	    (\*print_string ("elems: "^(string_of_int (List.length pageList))^" pages "^(string_of_int (List.length elements))^"\n"); *)
+(* 	    *\) *)
+	    
+(* 	    matchPages !dir 0 (List.rev pageList) elements; *)
+	    
+(* 	    ()) *)
+(* 	  else () *)
+(*   (\*  ) *)
+(*     with error -> (print_endline "0";(\*system ("rm -fR "^(!dir));*\) ();) *)
+(*   *\)   *)
+(* ;; *)
+
+
 let extractFile inFile inDirectory=
   
   let dir = ref "" in
   let file = ref "" in
     
- (*   try( *)
+    try(
       
       (*print_string inDirectory;
 	print_newline ();*)
@@ -209,37 +260,34 @@ let extractFile inFile inDirectory=
       *)
     
       let inCh = open_in_bin (!file) in
-      let pageTree = Pdfextractor.getPageTree inCh !test in	  
-      let pageList = Pdfextractor.extractPDF inCh pageTree [] in
-(*	print_string "!";*)
-	close_in inCh;
-	let elements = Contentparser.parse pageList [] !test in
-	  
-	  if (List.length (List.flatten elements)) >50
-	  then(
-	    
-	    if (!jsondir) = "" then(	    
-(* pre mo	      system ("./pdf2tiff "^(!file));
-	      makeJson !dir ((List.length pageTree)-1););
-*)
-	      system ("./extractLines.opt -f "^(!file)^" -o "^(!dir));
-();
-);
-	    
-	    (*      print_int (List.length pageTree);*)
-	    
-	    (*print_string ("elems: "^(string_of_int (List.length pageList))^" pages "^(string_of_int (List.length elements))^"\n");
-	    *)
-	    
-	    matchPages !dir 0 (List.rev pageList) elements;
-	    
-	    ())
-	  else ()
-  (*  )
-    with error -> (print_endline "0";(*system ("rm -fR "^(!dir));*) ();)
-  *)  
-;;
+	
 
+	let pageTree = Pdfextractor.getPageTree inCh !test in
+	  
+
+	  
+	  let pageList = Pdfextractor.extractPDF inCh pageTree [] in
+	    close_in inCh;
+
+	    
+	    let elements = Contentparser.parse pageList [] !print in
+	      
+	      if (!jsondir) = "" then(	    
+		system ("./pdf2tiff "^(!file));
+		makeJson !dir ((List.length pageTree)-1););
+	  
+	  (*      print_int (List.length pageTree);*)
+	  
+	  (*print_string ("elems: "^(string_of_int (List.length pageList))^" pages "^(string_of_int (List.length elements))^"\n");
+	  *)
+
+	  extractPages !dir 0 (List.rev pageList) elements;
+	  
+	  ();
+    )
+    with error -> (print_string (Printexc.to_string error);(*system ("rm -fR "^(!dir));*) ();)
+      
+;;
 
 
 let extractElements () =
