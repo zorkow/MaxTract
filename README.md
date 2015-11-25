@@ -8,9 +8,9 @@ documents.
 - src:  Source files.
     * ccl-tiff: Connected component labelling for TIFF files
     * pdfExtract: PDF extraction
-    * linearize: Linearization grammar
-    * drivers: Output drivers
-    * main: Maxtract main file to pull all together.
+    * linearize: Linearization grammar (not yet uploaded)
+    * drivers: Output drivers (not yet uploaded)
+    * main: Maxtract main file to pull it all together (not yet uploaded)
 
 - samples: Some sample files.
     * pdf: Sample PDF documents.
