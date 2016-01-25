@@ -1,0 +1,27 @@
+<line , none , 0.> 1278 1412 826 830
+<d t , LMMathItalic10-Regular , 9.9626> 1312 1380 848 906
+<d , LMMathItalic10-Regular , 9.9626> 1284 1322 734 792
+<W , LMMathSymbols10-Regular , 9.9626> 1324 1408 736 796
+<equal , LMRoman10-Regular , 9.9626> 1448 1504 818 836
+<minus , LMMathSymbols10-Regular , 9.9626> 1538 1590 826 828
+<line , none , 0.> 1606 1696 826 830
+<t , LMMathItalic10-Regular , 9.9626> 1638 1664 854 906
+<W , LMMathSymbols10-Regular , 9.9626> 1608 1692 736 796
+<minus , LMMathSymbols10-Regular , 9.9626> 1730 1782 826 828
+<a , LMMathItalic10-Regular , 9.9626> 1810 1848 812 848
+<parenleft , LMRoman10-Regular , 9.9626> 1858 1878 786 868
+<t , LMMathItalic10-Regular , 9.9626> 1886 1912 796 848
+<parenright , LMRoman10-Regular , 9.9626> 1918 1938 786 868
+<w , LMMathItalic10-Regular , 9.9626> 1948 2004 812 848
+<parenleftbig , LMMathExtension10-Regular , 9.9626> 2018 2040 778 878
+<x , LMMathItalic10-Regular , 9.9626> 2048 2090 812 848
+<parenleft , LMRoman10-Regular , 9.9626> 2100 2120 786 868
+<t , LMMathItalic10-Regular , 9.9626> 2126 2152 796 848
+<parenright , LMRoman10-Regular , 9.9626> 2158 2178 786 868
+<parenrightbig , LMMathExtension10-Regular , 9.9626> 2192 2214 778 878
+<comma , LMMathItalic10-Regular , 9.9626> 2246 2254 840 864
+<t , LMMathItalic10-Regular , 9.9626> 2444 2470 796 848
+<greaterequal , LMMathSymbols10-Regular , 9.9626> 2500 2552 796 844
+<t , LMMathItalic10-Regular , 9.9626> 2584 2610 796 848
+<zero , LMRoman7-Regular , 6.9738> 2616 2642 822 862
+<comma , LMMathItalic10-Regular , 9.9626> 2672 2680 840 864

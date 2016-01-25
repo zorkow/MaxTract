@@ -1,0 +1,15 @@
+<x , LMMathItalic10-Regular , 9.9626> 1466 1508 4492 4528
+<periodcentered , LMMathSymbols10-Regular , 9.9626> 1538 1546 4504 4512
+<nabla , LMMathSymbols10-Regular , 9.9626> 1574 1634 4472 4530
+<U , LMMathItalic10-Regular , 9.9626> 1646 1702 4472 4530
+<parenleft , LMRoman10-Regular , 9.9626> 1714 1734 4466 4548
+<x , LMMathItalic10-Regular , 9.9626> 1740 1782 4492 4528
+<parenright , LMRoman10-Regular , 9.9626> 1790 1810 4466 4548
+<lessequal , LMMathSymbols10-Regular , 9.9626> 1848 1900 4476 4522
+<zero , LMRoman10-Regular , 9.9626> 1932 1966 4472 4530
+<comma , LMMathItalic10-Regular , 9.9626> 1992 2000 4520 4544
+<x , LMMathItalic10-Regular , 9.9626> 2188 2230 4492 4528
+<element , LMMathSymbols10-Regular , 9.9626> 2264 2306 4484 4532
+<G , LMMathItalic10-Regular , 9.9626> 2340 2398 4470 4530
+<R , LMMathItalic7-Regular , 6.9738> 2406 2452 4502 4544
+<comma , LMMathItalic10-Regular , 9.9626> 2478 2486 4520 4544
