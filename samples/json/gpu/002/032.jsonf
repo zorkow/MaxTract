@@ -1,0 +1,1128 @@
+{
+  "srcPDF": "gpu",
+  "page": 2,
+  "pageWidth": 1996,
+  "pageHeight": 2835,
+  "clipX": 0,
+  "clipY": 0,
+  "clipWidth": 1996,
+  "clipHeight": 2835,
+  "clipImage": "",
+  "symbols": [
+    {
+      "bbox": { "x": 3426, "y": 4268, "w": 26, "h": 52 },
+      "glyphs": [ { "x": 3426, "y": 4268, "w": 26, "h": 52 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "t",
+            "bx": 3424,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 3404, "y": 4266, "w": 18, "h": 54 },
+      "glyphs": [
+        { "x": 3404, "y": 4284, "w": 18, "h": 36 },
+        { "x": 3410, "y": 4266, "w": 8, "h": 8 }
+      ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "i",
+            "bx": 3402,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 3362, "y": 4312, "w": 8, "h": 24 },
+      "glyphs": [ { "x": 3362, "y": 4312, "w": 8, "h": 24 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "comma",
+            "bx": 3352,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 3322, "y": 4282, "w": 28, "h": 38 },
+      "glyphs": [ { "x": 3322, "y": 4282, "w": 28, "h": 38 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "s",
+            "bx": 3320,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 3282, "y": 4282, "w": 36, "h": 38 },
+      "glyphs": [ { "x": 3282, "y": 4282, "w": 36, "h": 38 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "o",
+            "bx": 3280,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 3250, "y": 4284, "w": 28, "h": 36 },
+      "glyphs": [ { "x": 3250, "y": 4284, "w": 28, "h": 36 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "r",
+            "bx": 3248,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 3214, "y": 4282, "w": 32, "h": 38 },
+      "glyphs": [ { "x": 3214, "y": 4282, "w": 32, "h": 38 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "e",
+            "bx": 3212,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 3178, "y": 4284, "w": 30, "h": 36 },
+      "glyphs": [ { "x": 3178, "y": 4284, "w": 30, "h": 36 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "z",
+            "bx": 3175,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 3120, "y": 4282, "w": 28, "h": 38 },
+      "glyphs": [ { "x": 3120, "y": 4282, "w": 28, "h": 38 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "s",
+            "bx": 3117,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 3080, "y": 4282, "w": 36, "h": 38 },
+      "glyphs": [ { "x": 3080, "y": 4282, "w": 36, "h": 38 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "a",
+            "bx": 3076,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 3034, "y": 4262, "w": 42, "h": 58 },
+      "glyphs": [ { "x": 3034, "y": 4262, "w": 42, "h": 58 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "h",
+            "bx": 3031,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 2974, "y": 4268, "w": 26, "h": 52 },
+      "glyphs": [ { "x": 2974, "y": 4268, "w": 26, "h": 52 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "t",
+            "bx": 2972,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 2952, "y": 4266, "w": 18, "h": 54 },
+      "glyphs": [
+        { "x": 2952, "y": 4284, "w": 18, "h": 36 },
+        { "x": 2958, "y": 4266, "w": 8, "h": 8 }
+      ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "i",
+            "bx": 2950,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 2900, "y": 4262, "w": 28, "h": 58 },
+      "glyphs": [ { "x": 2900, "y": 4262, "w": 28, "h": 58 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "f",
+            "bx": 2898,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 2878, "y": 4266, "w": 18, "h": 54 },
+      "glyphs": [
+        { "x": 2878, "y": 4284, "w": 18, "h": 36 },
+        { "x": 2884, "y": 4266, "w": 8, "h": 8 }
+      ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "i",
+            "bx": 2876,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 2834, "y": 4312, "w": 8, "h": 24 },
+      "glyphs": [ { "x": 2834, "y": 4312, "w": 8, "h": 24 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "comma",
+            "bx": 2826,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 2798, "y": 4268, "w": 26, "h": 52 },
+      "glyphs": [ { "x": 2798, "y": 4268, "w": 26, "h": 52 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "t",
+            "bx": 2795,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 2758, "y": 4282, "w": 36, "h": 38 },
+      "glyphs": [ { "x": 2758, "y": 4282, "w": 36, "h": 38 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "a",
+            "bx": 2754,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 2712, "y": 4262, "w": 42, "h": 58 },
+      "glyphs": [ { "x": 2712, "y": 4262, "w": 42, "h": 58 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "h",
+            "bx": 2709,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 2680, "y": 4268, "w": 26, "h": 52 },
+      "glyphs": [ { "x": 2680, "y": 4268, "w": 26, "h": 52 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "t",
+            "bx": 2677,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 2622, "y": 4284, "w": 28, "h": 36 },
+      "glyphs": [ { "x": 2622, "y": 4284, "w": 28, "h": 36 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "r",
+            "bx": 2619,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 2582, "y": 4282, "w": 36, "h": 38 },
+      "glyphs": [ { "x": 2582, "y": 4282, "w": 36, "h": 38 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "a",
+            "bx": 2578,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 2544, "y": 4282, "w": 32, "h": 38 },
+      "glyphs": [ { "x": 2544, "y": 4282, "w": 32, "h": 38 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "e",
+            "bx": 2542,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 2522, "y": 4262, "w": 18, "h": 58 },
+      "glyphs": [ { "x": 2522, "y": 4262, "w": 18, "h": 58 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "l",
+            "bx": 2519,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 2486, "y": 4282, "w": 32, "h": 38 },
+      "glyphs": [ { "x": 2486, "y": 4282, "w": 32, "h": 38 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "c",
+            "bx": 2483,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 2426, "y": 4282, "w": 28, "h": 38 },
+      "glyphs": [ { "x": 2426, "y": 4282, "w": 28, "h": 38 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "s",
+            "bx": 2424,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 2404, "y": 4266, "w": 18, "h": 54 },
+      "glyphs": [
+        { "x": 2404, "y": 4284, "w": 18, "h": 36 },
+        { "x": 2410, "y": 4266, "w": 8, "h": 8 }
+      ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "i",
+            "bx": 2402,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 2346, "y": 4268, "w": 26, "h": 52 },
+      "glyphs": [ { "x": 2346, "y": 4268, "w": 26, "h": 52 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "t",
+            "bx": 2343,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 2324, "y": 4266, "w": 18, "h": 54 },
+      "glyphs": [
+        { "x": 2324, "y": 4284, "w": 18, "h": 36 },
+        { "x": 2330, "y": 4266, "w": 8, "h": 8 }
+      ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "i",
+            "bx": 2321,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 2280, "y": 4312, "w": 8, "h": 24 },
+      "glyphs": [ { "x": 2280, "y": 4312, "w": 8, "h": 24 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "comma",
+            "bx": 2271,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 2234, "y": 4282, "w": 38, "h": 56 },
+      "glyphs": [ { "x": 2234, "y": 4282, "w": 38, "h": 56 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "g",
+            "bx": 2231,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 2188, "y": 4284, "w": 42, "h": 36 },
+      "glyphs": [ { "x": 2188, "y": 4284, "w": 42, "h": 36 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "n",
+            "bx": 2185,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 2166, "y": 4266, "w": 18, "h": 54 },
+      "glyphs": [
+        { "x": 2166, "y": 4284, "w": 18, "h": 36 },
+        { "x": 2172, "y": 4266, "w": 8, "h": 8 }
+      ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "i",
+            "bx": 2163,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 2134, "y": 4282, "w": 28, "h": 38 },
+      "glyphs": [ { "x": 2134, "y": 4282, "w": 28, "h": 38 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "s",
+            "bx": 2131,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 2094, "y": 4282, "w": 36, "h": 38 },
+      "glyphs": [ { "x": 2094, "y": 4282, "w": 36, "h": 38 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "a",
+            "bx": 2090,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 2056, "y": 4282, "w": 32, "h": 38 },
+      "glyphs": [ { "x": 2056, "y": 4282, "w": 32, "h": 38 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "e",
+            "bx": 2054,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 2024, "y": 4284, "w": 28, "h": 36 },
+      "glyphs": [ { "x": 2024, "y": 4284, "w": 28, "h": 36 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "r",
+            "bx": 2022,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 1988, "y": 4282, "w": 32, "h": 38 },
+      "glyphs": [ { "x": 1988, "y": 4282, "w": 32, "h": 38 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "c",
+            "bx": 1986,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 1944, "y": 4284, "w": 42, "h": 36 },
+      "glyphs": [ { "x": 1944, "y": 4284, "w": 42, "h": 36 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "n",
+            "bx": 1941,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 1920, "y": 4266, "w": 18, "h": 54 },
+      "glyphs": [
+        { "x": 1920, "y": 4284, "w": 18, "h": 36 },
+        { "x": 1926, "y": 4266, "w": 8, "h": 8 }
+      ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "i",
+            "bx": 1918,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 1876, "y": 4284, "w": 42, "h": 36 },
+      "glyphs": [ { "x": 1876, "y": 4284, "w": 42, "h": 36 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "n",
+            "bx": 1873,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 1834, "y": 4282, "w": 36, "h": 38 },
+      "glyphs": [ { "x": 1834, "y": 4282, "w": 36, "h": 38 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "o",
+            "bx": 1832,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 1790, "y": 4284, "w": 42, "h": 36 },
+      "glyphs": [ { "x": 1790, "y": 4284, "w": 42, "h": 36 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "n",
+            "bx": 1787,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 1722, "y": 4282, "w": 38, "h": 56 },
+      "glyphs": [ { "x": 1722, "y": 4282, "w": 38, "h": 56 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "g",
+            "bx": 1720,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 1676, "y": 4284, "w": 42, "h": 36 },
+      "glyphs": [ { "x": 1676, "y": 4284, "w": 42, "h": 36 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "n",
+            "bx": 1674,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 1654, "y": 4266, "w": 18, "h": 54 },
+      "glyphs": [
+        { "x": 1654, "y": 4284, "w": 18, "h": 36 },
+        { "x": 1660, "y": 4266, "w": 8, "h": 8 }
+      ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "i",
+            "bx": 1652,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 1618, "y": 4282, "w": 32, "h": 38 },
+      "glyphs": [ { "x": 1618, "y": 4282, "w": 32, "h": 38 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "e",
+            "bx": 1616,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 1570, "y": 4262, "w": 40, "h": 58 },
+      "glyphs": [ { "x": 1570, "y": 4262, "w": 40, "h": 58 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "b",
+            "bx": 1568,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 1514, "y": 4258, "w": 20, "h": 82 },
+      "glyphs": [ { "x": 1514, "y": 4258, "w": 20, "h": 82 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "parenright",
+            "bx": 1510,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 1482, "y": 4268, "w": 26, "h": 52 },
+      "glyphs": [ { "x": 1482, "y": 4268, "w": 26, "h": 52 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "t",
+            "bx": 1480,
+            "by": 4319,
+            "font": "LMMathItalic10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 1452, "y": 4312, "w": 8, "h": 24 },
+      "glyphs": [ { "x": 1452, "y": 4312, "w": 8, "h": 24 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "comma",
+            "bx": 1443,
+            "by": 4319,
+            "font": "LMMathItalic10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 1398, "y": 4284, "w": 42, "h": 36 },
+      "glyphs": [ { "x": 1398, "y": 4284, "w": 42, "h": 36 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "x",
+            "bx": 1395,
+            "by": 4319,
+            "font": "LMMathItalic10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 1372, "y": 4258, "w": 18, "h": 82 },
+      "glyphs": [ { "x": 1372, "y": 4258, "w": 18, "h": 82 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "parenleft",
+            "bx": 1364,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 1278, "y": 4264, "w": 84, "h": 60 },
+      "glyphs": [ { "x": 1278, "y": 4264, "w": 84, "h": 60 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "W",
+            "bx": 1275,
+            "by": 4319,
+            "font": "LMMathSymbols10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 1248, "y": 4268, "w": 26, "h": 52 },
+      "glyphs": [ { "x": 1248, "y": 4268, "w": 26, "h": 52 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "t",
+            "bx": 1245,
+            "by": 4319,
+            "font": "LMMathItalic10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 1088, "y": 4268, "w": 26, "h": 52 },
+      "glyphs": [ { "x": 1088, "y": 4268, "w": 26, "h": 52 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "t",
+            "bx": 1086,
+            "by": 4319,
+            "font": "LMMathItalic10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 1016, "y": 4284, "w": 42, "h": 36 },
+      "glyphs": [ { "x": 1016, "y": 4284, "w": 42, "h": 36 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "n",
+            "bx": 1014,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 976, "y": 4282, "w": 36, "h": 38 },
+      "glyphs": [ { "x": 976, "y": 4282, "w": 36, "h": 38 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "o",
+            "bx": 973,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 954, "y": 4266, "w": 18, "h": 54 },
+      "glyphs": [
+        { "x": 954, "y": 4284, "w": 18, "h": 36 },
+        { "x": 960, "y": 4266, "w": 8, "h": 8 }
+      ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "i",
+            "bx": 951,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 922, "y": 4268, "w": 26, "h": 52 },
+      "glyphs": [ { "x": 922, "y": 4268, "w": 26, "h": 52 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "t",
+            "bx": 919,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 886, "y": 4282, "w": 32, "h": 38 },
+      "glyphs": [ { "x": 886, "y": 4282, "w": 32, "h": 38 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "c",
+            "bx": 883,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 840, "y": 4284, "w": 42, "h": 36 },
+      "glyphs": [ { "x": 840, "y": 4284, "w": 42, "h": 36 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "n",
+            "bx": 838,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 794, "y": 4284, "w": 42, "h": 36 },
+      "glyphs": [ { "x": 794, "y": 4284, "w": 42, "h": 36 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "u",
+            "bx": 792,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 770, "y": 4262, "w": 28, "h": 58 },
+      "glyphs": [ { "x": 770, "y": 4262, "w": 28, "h": 58 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "f",
+            "bx": 768,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 708, "y": 4282, "w": 32, "h": 38 },
+      "glyphs": [ { "x": 708, "y": 4282, "w": 32, "h": 38 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "e",
+            "bx": 705,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 662, "y": 4262, "w": 42, "h": 58 },
+      "glyphs": [ { "x": 662, "y": 4262, "w": 42, "h": 58 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "h",
+            "bx": 660,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 606, "y": 4264, "w": 52, "h": 56 },
+      "glyphs": [ { "x": 606, "y": 4264, "w": 52, "h": 56 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "T",
+            "bx": 601,
+            "by": 4319,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 1144, "y": 4284, "w": 74, "h": 30 },
+      "glyphs": [ { "x": 1144, "y": 4284, "w": 74, "h": 30 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "arrowright-mapsto",
+            "bx": 1139,
+            "by": 4319,
+            "font": "LMMathSymbols10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    }
+  ]
+}

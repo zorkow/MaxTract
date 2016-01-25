@@ -46,4 +46,7 @@ Then run
     ./extractElements -f input.pdf -d output_directory
 
 
+For example the following produces the json files in samples/json/gpu:
+
+    ./extractElements.opt -f ../../samples/pdf/gpu.pdf -d ../../samples/json/gpu
 
