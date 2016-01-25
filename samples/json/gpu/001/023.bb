@@ -1,0 +1,33 @@
+<zero , LMRoman10-Regular , 9.9626> 1002 1036 3692 3750
+<lessequal , LMMathSymbols10-Regular , 9.9626> 1068 1120 3696 3742
+<f , LMMathItalic10-Regular , 9.9626> 1154 1196 3690 3764
+<parenleft , LMRoman10-Regular , 9.9626> 1208 1228 3686 3768
+<x , LMMathItalic10-Regular , 9.9626> 1234 1276 3712 3748
+<comma , LMMathItalic10-Regular , 9.9626> 1288 1296 3740 3764
+<u , LMMathItalic10-Regular , 9.9626> 1318 1360 3712 3748
+<parenright , LMRoman10-Regular , 9.9626> 1368 1388 3686 3768
+<lessequal , LMMathSymbols10-Regular , 9.9626> 1426 1478 3696 3742
+<A , LMMathItalic10-Regular , 9.9626> 1510 1568 3688 3748
+<parenleftbig , LMMathExtension10-Regular , 9.9626> 1582 1604 3676 3776
+<bar , LMMathSymbols10-Regular , 9.9626> 1618 1622 3686 3768
+<x , LMMathItalic10-Regular , 9.9626> 1632 1674 3712 3748
+<bar , LMMathSymbols10-Regular , 9.9626> 1688 1692 3686 3768
+<parenrightbig , LMMathExtension10-Regular , 9.9626> 1706 1728 3676 3776
+<W , LMMathItalic10-Regular , 9.9626> 1744 1826 3692 3750
+<parenleft , LMRoman10-Regular , 9.9626> 1838 1858 3686 3768
+<u , LMMathItalic10-Regular , 9.9626> 1864 1906 3712 3748
+<parenright , LMRoman10-Regular , 9.9626> 1912 1932 3686 3768
+<f o r , LMRoman10-Regular , 9.9626> 2026 2122 3690 3748
+<a l l , LMRoman10-Regular , 9.9626> 2156 2238 3690 3748
+<x , LMMathItalic10-Regular , 9.9626> 2324 2366 3712 3748
+<element , LMMathSymbols10-Regular , 9.9626> 2398 2440 3704 3752
+<G , LMMathItalic10-Regular , 9.9626> 2474 2532 3690 3750
+<R , LMMathItalic7-Regular , 6.9738> 2540 2586 3720 3762
+<comma , LMMathItalic10-Regular , 9.9626> 2598 2606 3740 3764
+<u , LMMathItalic10-Regular , 9.9626> 2644 2686 3712 3748
+<element , LMMathSymbols10-Regular , 9.9626> 2718 2760 3704 3752
+<bracketleft , LMRoman10-Regular , 9.9626> 2800 2812 3686 3768
+<zero , LMRoman10-Regular , 9.9626> 2818 2852 3692 3750
+<comma , LMMathItalic10-Regular , 9.9626> 2864 2872 3740 3764
+<zeta , LMMathItalic10-Regular , 9.9626> 2896 2932 3690 3764
+<bracketright , LMRoman10-Regular , 9.9626> 2936 2948 3686 3768

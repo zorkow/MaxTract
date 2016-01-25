@@ -1,0 +1,20 @@
+<V , LMMathItalic10-Regular , 9.9626> 506 566 2088 2146
+<n , LMMathItalic7-Regular , 6.9738> 570 606 2088 2114
+<plus , LMRoman7-Regular , 6.9738> 614 658 2078 2120
+<one , LMRoman7-Regular , 6.9738> 666 688 2076 2114
+<equal , LMRoman10-Regular , 9.9626> 724 780 2114 2132
+<V , LMMathItalic10-Regular , 9.9626> 812 872 2088 2146
+<n , LMMathItalic7-Regular , 6.9738> 878 914 2088 2114
+<openbullet , LMMathSymbols10-Regular , 9.9626> 944 976 2108 2140
+<V , LMMathItalic10-Regular , 9.9626> 1002 1062 2088 2146
+<a n d , LMRoman10-Regular , 9.9626> 1098 1226 2086 2144
+<I , LMMathItalic10-Regular , 9.9626> 1256 1296 2088 2144
+<equal , LMRoman10-Regular , 9.9626> 1326 1382 2114 2132
+<bracketleft , LMRoman10-Regular , 9.9626> 1418 1430 2082 2164
+<t , LMMathItalic10-Regular , 9.9626> 1434 1460 2092 2144
+<zero , LMRoman7-Regular , 6.9738> 1466 1492 2118 2158
+<comma , LMMathItalic10-Regular , 9.9626> 1508 1516 2136 2160
+<plus , LMRoman10-Regular , 9.9626> 1540 1596 2096 2150
+<infinity , LMMathSymbols10-Regular , 9.9626> 1604 1678 2108 2144
+<parenright , LMRoman10-Regular , 9.9626> 1688 1708 2082 2164
+<period , LMRoman10-Regular , 9.9626> 1724 1732 2136 2144

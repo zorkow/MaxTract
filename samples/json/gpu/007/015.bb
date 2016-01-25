@@ -1,0 +1,24 @@
+<integraldisplay , LMMathExtension10-Regular , 9.9626> 1438 1512 2490 2674
+<t , LMMathItalic7-Regular , 6.9738> 1482 1502 2644 2680
+<zero , LMRoman5-Regular , 4.9813> 1510 1530 2660 2688
+<plus , LMRoman7-Regular , 6.9738> 1522 1566 2476 2518
+<infinity , LMMathSymbols7-Regular , 6.9738> 1572 1630 2486 2512
+<w , LMMathItalic10-Regular , 9.9626> 1654 1710 2568 2604
+<parenleft , LMRoman10-Regular , 9.9626> 1722 1742 2542 2624
+<t , LMMathItalic10-Regular , 9.9626> 1748 1774 2552 2604
+<parenright , LMRoman10-Regular , 9.9626> 1780 1800 2542 2624
+<a , LMMathItalic10-Regular , 9.9626> 1826 1864 2568 2604
+<parenleft , LMRoman10-Regular , 9.9626> 1874 1894 2542 2624
+<t , LMMathItalic10-Regular , 9.9626> 1900 1926 2552 2604
+<parenright , LMRoman10-Regular , 9.9626> 1932 1952 2542 2624
+<d t , LMMathItalic10-Regular , 9.9626> 1978 2046 2546 2604
+<lessequal , LMMathSymbols10-Regular , 9.9626> 2076 2128 2552 2598
+<line , none , 0.> 2168 2476 2580 2586
+<w , LMMathItalic10-Regular , 9.9626> 2170 2226 2624 2660
+<parenleft , LMRoman10-Regular , 9.9626> 2238 2258 2598 2680
+<c , LMMathItalic10-Regular , 9.9626> 2266 2298 2624 2660
+<plus , LMRoman10-Regular , 9.9626> 2320 2376 2612 2666
+<d , LMMathItalic10-Regular , 9.9626> 2404 2442 2602 2660
+<parenright , LMRoman10-Regular , 9.9626> 2446 2466 2598 2680
+<d , LMMathItalic10-Regular , 9.9626> 2304 2342 2490 2548
+<period , LMMathItalic10-Regular , 9.9626> 2508 2516 2596 2604

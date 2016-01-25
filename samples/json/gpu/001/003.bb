@@ -1,0 +1,2 @@
+<D I F F E R E N T I A L , LMRoman10-Bold , 9.9626> 1308 2034 970 1028
+<E Q U A T I O N S , LMRoman10-Bold , 9.9626> 2082 2648 970 1044

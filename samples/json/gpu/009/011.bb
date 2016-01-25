@@ -1,0 +1,34 @@
+<D , LMMathItalic10-Regular , 9.9626> 992 1054 2260 2316
+<equal , LMRoman10-Regular , 9.9626> 1086 1142 2286 2304
+<braceleftbig , LMMathExtension10-Regular , 9.9626> 1180 1208 2246 2346
+<y , LMMathItalic10-Regular , 9.9626> 1222 1260 2280 2332
+<element , LMMathSymbols10-Regular , 9.9626> 1292 1334 2272 2320
+<C , LMMathItalic10-Regular , 9.9626> 1368 1426 2258 2318
+<parenleft , LMRoman10-Regular , 9.9626> 1438 1458 2254 2336
+<bracketleft , LMRoman10-Regular , 9.9626> 1472 1484 2254 2336
+<t , LMMathItalic10-Regular , 9.9626> 1488 1514 2264 2316
+<zero , LMRoman7-Regular , 6.9738> 1520 1546 2290 2330
+<comma , LMMathItalic10-Regular , 9.9626> 1560 1568 2308 2332
+<plus , LMRoman10-Regular , 9.9626> 1594 1650 2268 2322
+<infinity , LMMathSymbols10-Regular , 9.9626> 1658 1732 2280 2316
+<parenright , LMRoman10-Regular , 9.9626> 1740 1760 2254 2336
+<comma , LMMathItalic10-Regular , 9.9626> 1778 1786 2308 2332
+<R , MSBM10 , 9.9626> 1808 1864 2260 2316
+<parenright , LMRoman10-Regular , 9.9626> 1870 1890 2254 2336
+<colon , LMRoman10-Regular , 9.9626> 1930 1938 2280 2316
+<t , LMMathItalic10-Regular , 9.9626> 1970 1996 2264 2316
+<bar , LMMathSymbols10-Regular , 9.9626> 2008 2012 2254 2336
+<y , LMMathItalic10-Regular , 9.9626> 2022 2060 2280 2332
+<parenleft , LMRoman10-Regular , 9.9626> 2072 2092 2254 2336
+<t , LMMathItalic10-Regular , 9.9626> 2098 2124 2264 2316
+<parenright , LMRoman10-Regular , 9.9626> 2130 2150 2254 2336
+<bar , LMMathSymbols10-Regular , 9.9626> 2168 2172 2254 2336
+<lessequal , LMMathSymbols10-Regular , 9.9626> 2212 2264 2264 2310
+<eta , LMMathItalic10-Regular , 9.9626> 2294 2334 2280 2334
+<f o r , LMRoman10-Regular , 9.9626> 2366 2462 2258 2316
+<e v e r y , LMRoman10-Regular , 9.9626> 2494 2682 2278 2332
+<t , LMMathItalic10-Regular , 9.9626> 2712 2738 2264 2316
+<greaterequal , LMMathSymbols10-Regular , 9.9626> 2770 2822 2264 2312
+<t , LMMathItalic10-Regular , 9.9626> 2854 2880 2264 2316
+<zero , LMRoman7-Regular , 6.9738> 2886 2912 2290 2330
+<bracerightbig , LMMathExtension10-Regular , 9.9626> 2928 2956 2246 2346

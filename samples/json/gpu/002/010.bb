@@ -1,0 +1,24 @@
+<parenleft , LMRoman10-Regular , 9.9626> 510 530 1506 1588
+<three , LMRoman10-Regular , 9.9626> 538 572 1512 1570
+<parenright , LMRoman10-Regular , 9.9626> 580 600 1506 1588
+<x , LMMathItalic10-Regular , 9.9626> 1130 1172 1532 1568
+<parenleft , LMRoman10-Regular , 9.9626> 1184 1204 1506 1588
+<t , LMMathItalic10-Regular , 9.9626> 1210 1236 1516 1568
+<parenright , LMRoman10-Regular , 9.9626> 1242 1262 1506 1588
+<equal , LMRoman10-Regular , 9.9626> 1296 1352 1538 1556
+<c , LMMathItalic10-Regular , 9.9626> 1384 1416 1532 1568
+<one , LMRoman7-Regular , 6.9738> 1422 1444 1542 1580
+<t , LMMathItalic10-Regular , 9.9626> 1456 1482 1516 1568
+<plus , LMRoman10-Regular , 9.9626> 1506 1562 1520 1574
+<c , LMMathItalic10-Regular , 9.9626> 1590 1622 1532 1568
+<two , LMRoman7-Regular , 6.9738> 1626 1652 1542 1580
+<plus , LMRoman10-Regular , 9.9626> 1680 1736 1520 1574
+<o , LMMathItalic10-Regular , 9.9626> 1764 1798 1532 1568
+<parenleft , LMRoman10-Regular , 9.9626> 1808 1828 1506 1588
+<one , LMRoman10-Regular , 9.9626> 1840 1866 1512 1568
+<parenright , LMRoman10-Regular , 9.9626> 1878 1898 1506 1588
+<w h e n , LMRoman10-Regular , 9.9626> 1992 2176 1510 1568
+<t , LMMathItalic10-Regular , 9.9626> 2264 2290 1516 1568
+<arrowright , LMMathSymbols10-Regular , 9.9626> 2318 2392 1532 1562
+<plus , LMRoman10-Regular , 9.9626> 2424 2480 1520 1574
+<infinity , LMMathSymbols10-Regular , 9.9626> 2488 2562 1532 1568
