@@ -1,0 +1,96 @@
+{
+  "srcPDF": "gpu",
+  "page": 3,
+  "pageWidth": 1996,
+  "pageHeight": 2835,
+  "clipX": 0,
+  "clipY": 0,
+  "clipWidth": 1996,
+  "clipHeight": 2835,
+  "clipImage": "",
+  "symbols": [
+    {
+      "bbox": { "x": 664, "y": 3676, "w": 8, "h": 8 },
+      "glyphs": [ { "x": 664, "y": 3676, "w": 8, "h": 8 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "period",
+            "bx": 656,
+            "by": 3683,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 612, "y": 3648, "w": 42, "h": 36 },
+      "glyphs": [ { "x": 612, "y": 3648, "w": 42, "h": 36 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "n",
+            "bx": 610,
+            "by": 3683,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 572, "y": 3646, "w": 36, "h": 38 },
+      "glyphs": [ { "x": 572, "y": 3646, "w": 36, "h": 38 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "a",
+            "bx": 568,
+            "by": 3683,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 548, "y": 3630, "w": 18, "h": 54 },
+      "glyphs": [
+        { "x": 548, "y": 3648, "w": 18, "h": 36 },
+        { "x": 554, "y": 3630, "w": 8, "h": 8 }
+      ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "i",
+            "bx": 545,
+            "by": 3683,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    },
+    {
+      "bbox": { "x": 504, "y": 3626, "w": 40, "h": 58 },
+      "glyphs": [ { "x": 504, "y": 3626, "w": 40, "h": 58 } ],
+      "elements": [
+        [
+          "pdfChar",
+          {
+            "c": "k",
+            "bx": 501,
+            "by": 3683,
+            "font": "LMRoman10-Regular",
+            "scale": 9.9626
+          }
+        ]
+      ]
+    }
+  ]
+}

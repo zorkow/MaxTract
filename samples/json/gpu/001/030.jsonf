@@ -1,0 +1,20 @@
+{
+  "srcPDF": "gpu",
+  "page": 1,
+  "pageWidth": 1996,
+  "pageHeight": 2835,
+  "clipX": 0,
+  "clipY": 0,
+  "clipWidth": 1996,
+  "clipHeight": 2835,
+  "clipImage": "",
+  "symbols": [
+    {
+      "bbox": { "x": 500, "y": 4626, "w": 500, "h": 6 },
+      "glyphs": [ { "x": 500, "y": 4626, "w": 500, "h": 6 } ],
+      "elements": [
+        [ "line", { "sx": 501, "sy": 4629, "lw": 3, "ex": 999, "ey": 4629 } ]
+      ]
+    }
+  ]
+}
